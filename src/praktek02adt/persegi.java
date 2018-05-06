@@ -8,7 +8,14 @@ public class persegi {
         tinggi=6;   
     }
 
+    public persegi(double alas, double tinggi) {
+        this.alas = alas;
+        this.tinggi = tinggi;
+    }
+    
+    
+    
     void cetakInfo() {
         System.out.println("==================");
     }
-}    
+}
