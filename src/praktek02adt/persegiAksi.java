@@ -8,5 +8,6 @@ public class persegiAksi {
         rl.tinggi = 9;
         
         rl.cetakInfo();
+        System.out.println("Keliling persegi = "+rl.hitungKeliling());
 }
 }
