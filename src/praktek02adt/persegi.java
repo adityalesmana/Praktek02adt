@@ -28,5 +28,7 @@ public class persegi {
         return keliling;
     }
     
-    
+    void cetakKeliling(){
+        System.out.println("Kelilingnya adalah : "+hitungKeliling());
+    }
 }

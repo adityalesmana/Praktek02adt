@@ -9,5 +9,6 @@ public class persegiAksi {
         
         rl.cetakInfo();
         System.out.println("Keliling persegi = "+rl.hitungKeliling());
+            rl.cetakKeliling();
 }
 }
